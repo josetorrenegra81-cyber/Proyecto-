@@ -1,7 +1,0 @@
-app = "telegram-bot"
-
-[run]
-command = "python3 main.py"
-
-[build]
-engine = "python3.10"
